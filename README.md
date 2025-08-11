@@ -1,5 +1,5 @@
 <p align="center" width="300">
-  <h2 align="center" with="200">Hola Mucho gusto! 👋</h2>
+  <h2 align="center" with="200">Hola ¡Mucho gusto! 👋</h2>
   <h3 align="center" with="250">✨✨Sientete libre de indagar lo que quieras✨✨</h3>
 </p>
 
