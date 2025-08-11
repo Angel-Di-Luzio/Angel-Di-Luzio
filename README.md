@@ -1,5 +1,5 @@
 <p align="center" width="300">
-  <h3>Hola Mucho gusto!</h3>
+  <h3 align="center" with="200">Hola Mucho gusto!</h3>
 </p>
 
 <!--
