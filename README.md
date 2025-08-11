@@ -3,6 +3,12 @@
   <h3 align="center" with="250">✨✨Sientete libre de indagar lo que quieras✨✨</h3>
 </p>
 
+```javascript
+const acercaDeMi = {
+   lenguajes: [Javascript, Typescript, HTML, CSS],
+   Ocupacion: ["Estudiante entusiasta de analisis de sistemas"],
+};
+```
 <!--
 **Angel-Di-Luzio/Angel-Di-Luzio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
