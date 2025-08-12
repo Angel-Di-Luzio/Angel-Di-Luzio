@@ -1,5 +1,5 @@
 <p align="center" width="300">
-  <h2 align="center" with="200">Hola ¡Mucho gusto! <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px"></h2>
+  <h2 align="center" with="200">Hola ¡Mucho gusto!  <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Hi.gif" width="29px"></h2>
   <h3 align="center" with="250">✨✨Sientete libre de indagar lo que quieras✨✨</h3>
 </p>
 
