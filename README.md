@@ -7,7 +7,7 @@
 const acercaDeMi = {
    lenguajes: [Javascript, Typescript, HTML, CSS],
    Ocupacion: ["Estudiante entusiasta de analisis de sistemas"],
-   email: "angeldiluzio@gmail.com"
+   email: ["angeldiluzio@gmail.com"],
 };
 ```
 <p align="center">
