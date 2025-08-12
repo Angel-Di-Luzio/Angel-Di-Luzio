@@ -1,5 +1,5 @@
 <p align="center" width="300">
-  <h2 align="center" with="200">Hola ¡Mucho gusto! 👋</h2>
+  <h2 align="center" with="200">Hola ¡Mucho gusto! <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px"></h2>
   <h3 align="center" with="250">✨✨Sientete libre de indagar lo que quieras✨✨</h3>
 </p>
 
@@ -20,6 +20,4 @@ const acercaDeMi = {
 	<br>
 	<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="200" height="200">
 </div>
-
-# Contactate conmigo<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px">
 
