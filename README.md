@@ -6,7 +6,7 @@
 ```javascript
 const acercaDeMi = {
    lenguajes: [Javascript, Typescript, HTML, CSS],
-   Ocupacion: ["Estudiante entusiasta de analisis de sistemas"],
+   Ocupacion: ["Estudiante de analisis de sistemas"],
    email: ["angeldiluzio@gmail.com"],
 };
 ```
