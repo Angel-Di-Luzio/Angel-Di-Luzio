@@ -7,6 +7,7 @@
 const acercaDeMi = {
    lenguajes: [Javascript, Typescript, HTML, CSS],
    Ocupacion: ["Estudiante entusiasta de analisis de sistemas"],
+   email: "angeldiluzio@gmail.com"
 };
 ```
 <p align="center">
@@ -32,3 +33,5 @@ const acercaDeMi = {
 ### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/question.png" width="50px" />  Pregúntame sobre...
 - <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/chat.gif" height="35px" /> Cualquier cosa, estoy feliz de ayudar.
 
+<br>
+<img src="https://imgur.com/rilHVxA.png"/>
